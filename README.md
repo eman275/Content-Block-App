@@ -16,7 +16,7 @@ This is a Content Block App built using React.js, styled with Tailwind CSS, and 
 - 🤖 Regenerate content using predefined AI suggestions.
   
 ## 🏗️ To build it
-1. Clone this repo by running `git clone https://github.com/your-username/content-block-app`.
+1. Clone this repo by running `git clone https://github.com/eman275/Content-Block-App`.
 2. Navigate to the project directory: `cd content-block-app`.
 3. Install dependencies: `npm install` or `yarn`.
 4. Run the development server: `npm run dev` or `yarn dev`.
